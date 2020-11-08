@@ -1,6 +1,7 @@
 {
 	"name": "Dataflow1",
 	"properties": {
+		"description": "asd",
 		"type": "MappingDataFlow",
 		"typeProperties": {
 			"sources": [],
